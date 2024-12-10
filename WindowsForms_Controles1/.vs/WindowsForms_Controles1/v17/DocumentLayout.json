@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\windowsforms_controles1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|solutionrelative:windowsforms_controles1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|e:\\desarollo de interfaces\\t3\\vs\\windowsforms_controles1\\windowsforms_controles1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|solutionrelative:windowsforms_controles1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\windowsforms_controles1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|solutionrelative:windowsforms_controles1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\windowsforms_controles1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D2356E-BB09-4136-A6AD-AEF02EA3665A}|WindowsForms_Controles1\\WindowsForms_Controles1.csproj|solutionrelative:windowsforms_controles1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForms_Controles1\\Form1.cs",
+              "ToolTip": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForms_Controles1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:43:24.195Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForms_Controles1\\Form1.cs",
+              "ToolTip": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Form1.cs",
+              "RelativeToolTip": "WindowsForms_Controles1\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1AAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:55:20.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForms_Controles1\\Form1.Designer.cs",
+              "ToolTip": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsForms_Controles1\\Form1.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswO4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:57:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsForms_Controles1\\Program.cs",
+              "ToolTip": "E:\\Desarollo de interfaces\\T3\\VS\\WindowsForms_Controles1\\WindowsForms_Controles1\\Program.cs",
+              "RelativeToolTip": "WindowsForms_Controles1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:43:54.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

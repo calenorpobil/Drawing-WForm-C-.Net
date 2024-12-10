@@ -1,0 +1,11 @@
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\bin\Debug\Dibujar.exe.config
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\bin\Debug\Dibujar.exe
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\bin\Debug\Dibujar.pdb
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.csproj.AssemblyReference.cache
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.Form1.resources
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.Properties.Resources.resources
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.csproj.GenerateResource.cache
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.csproj.CoreCompileInputs.cache
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.exe
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.pdb
+E:\Desarollo de interfaces\T3\VS\Dibujar\Dibujar\obj\Debug\Dibujar.UserControl1.resources

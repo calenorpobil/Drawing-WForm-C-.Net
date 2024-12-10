@@ -1,0 +1,10 @@
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\bin\Debug\WindowsForms_Controles1.exe.config
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\bin\Debug\WindowsForms_Controles1.exe
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\bin\Debug\WindowsForms_Controles1.pdb
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\obj\Debug\WindowsForms_Controles1.csproj.AssemblyReference.cache
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\obj\Debug\WindowsForms_Controles1.Form1.resources
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\obj\Debug\WindowsForms_Controles1.Properties.Resources.resources
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\obj\Debug\WindowsForms_Controles1.csproj.GenerateResource.cache
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\obj\Debug\WindowsForms_Controles1.csproj.CoreCompileInputs.cache
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\obj\Debug\WindowsForms_Controles1.exe
+E:\Desarollo de interfaces\T3\VS\WindowsForms_Controles1\WindowsForms_Controles1\obj\Debug\WindowsForms_Controles1.pdb

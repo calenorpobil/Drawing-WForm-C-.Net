@@ -1,0 +1,10 @@
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\bin\Debug\WForms_Controles2.exe.config
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\bin\Debug\WForms_Controles2.exe
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\bin\Debug\WForms_Controles2.pdb
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\obj\Debug\WForms_Controles2.csproj.AssemblyReference.cache
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\obj\Debug\WForms_Controles2.Form1.resources
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\obj\Debug\WForms_Controles2.Properties.Resources.resources
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\obj\Debug\WForms_Controles2.csproj.GenerateResource.cache
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\obj\Debug\WForms_Controles2.csproj.CoreCompileInputs.cache
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\obj\Debug\WForms_Controles2.exe
+E:\Desarollo de interfaces\T3\VS\WForms_Controles2\WForms_Controles2\obj\Debug\WForms_Controles2.pdb
